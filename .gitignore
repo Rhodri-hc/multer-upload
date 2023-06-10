@@ -13,3 +13,4 @@ run/
 typings/
 .nyc_output/
 express/node_modules/
+nest/node_modules/
